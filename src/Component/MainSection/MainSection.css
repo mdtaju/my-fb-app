@@ -1,0 +1,31 @@
+.elements-container {
+    overflow: hidden;
+}
+
+.element-sub-container {
+    overflow: hidden;
+    margin: 0px auto;
+}
+
+.main-section {
+    margin: 50px 5%;
+}
+
+.counter-icon-section {
+    width: 100%;
+    margin-top: 60px;
+}
+
+h3.salary-counter-icon {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 35px 0px 14px;
+}
+
+.super-script {
+    padding: 0px 5px;
+    margin: 0px 0px 5px 2px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+}

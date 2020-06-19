@@ -1,0 +1,45 @@
+.main-blog {
+    width: 345px;
+    float: left !important;
+    border: 2px dashed black;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+    margin: 20px 15px 80px 15px;
+    padding: 10px;
+}
+.img-blog {
+    /* overflow: hidden; */
+    width: 200px;
+    height: 180px;
+    text-align: center;
+    margin: 0px auto;
+}
+.img-blog img {
+    width: 100%;
+    height: 100%;
+}
+.user-name {
+    text-align: center;
+    font-weight: 500;
+}
+.name-blog {
+    line-height: 5px;
+}
+.name-blog h4 {
+    color: darkorange;
+}
+p.zip-code {
+    width: 50%;
+    float: left;
+    display: contents;
+}
+button {
+    float: right;
+    background-color: green;
+    color: white;
+    border: none;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
